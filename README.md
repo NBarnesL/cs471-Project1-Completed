@@ -1,5 +1,7 @@
 This is my submission for CS471 Spring 2021 Project 1. Code is found in cs471-Project1-w-multipledatagrids folder.
 
+This project was developed in C# in Visual Studio 2019. I used Windows Forms because learning Qt is a pain.
+
 Form1.cs: Contains functions for actions taken on the GUI.
 
 Form1.Designer.cs: Windows form Layout
